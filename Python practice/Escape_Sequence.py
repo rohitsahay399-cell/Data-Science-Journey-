@@ -1,0 +1,5 @@
+print("Hello\nWorld")
+print("Python\tProgramming")
+print("This is a backslash: \\")
+print("She said, \"Hello!\"")
+print('It\'s a beautiful day.')
